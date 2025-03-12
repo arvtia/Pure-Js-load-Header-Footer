@@ -1,4 +1,3 @@
-I can help you draft a README.md for your project. Here is a sample:
 
 ---
 
